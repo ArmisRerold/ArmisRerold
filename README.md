@@ -11,12 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmisRerold&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmisRerold&hide_progress=true&theme=radical)
 
-<style>
-    .skill, .contact{
-        display: flex;
-        gap: 5px;
-    }
-</style>
+
 
 <h4>Tecnologias que uso no meu dia</h4>
 <div class="skill" style="display: inline_block"></br>
