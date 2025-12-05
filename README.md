@@ -6,12 +6,7 @@
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reroldariel/)
 
 
-<style>
-    .skill, .contact{
-        display: flex;
-        gap: 5px;
-    }
-</style>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmisRerold&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmisRerold&hide_progress=true&theme=radical)
